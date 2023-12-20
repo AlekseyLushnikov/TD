@@ -24,4 +24,4 @@ Welcome to my pet project "TD" – an exciting Tower Defense game developed usin
 
 Enjoy the gaming experience in the world of TD! 🎮
 
-![Пример картинки](https://ibb.co/VMWCLGh)
+![Пример картинки](https://i.ibb.co/VMWCLGh/td.png)
