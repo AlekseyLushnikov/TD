@@ -1,6 +1,7 @@
 # TD - Tower Defense Project
 
 Welcome to my pet project "TD" – an exciting Tower Defense game developed using Unity, Zenject, and UniRx.
+Migrate from https://bitbucket.org/AlexLushnikov/td/
 
 ## Key Features and Capabilities:
 
